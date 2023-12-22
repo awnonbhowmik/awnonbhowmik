@@ -8,7 +8,7 @@ I am a mathematics graduate student with a decade of experience as an Educator. 
 
 * 🌍  I'm based in Paterson, NJ
 * 🖥️  See my portfolio at [my personal site](http://awnonbhowmik.com)
-* ✉️  You can contact me at [awnonbhowmik256@gmail.com](mailto:awnonbhowmik256@gmail.com)
+* ✉️  You can contact me at [my email](mailto:awnonbhowmik256@gmail.com)
 * 🤝  I'm open to collaborating on Projects related to Mathematics, Cryptography, etc
 * ⚡  I occasionally write answers to mathematical problems on Quora and Mathematics StackExchange
 
