@@ -1,10 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Awnon Bhowmik
-=====================================================================================================================================
+Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Awnon Bhowmik
+==========================================================================================================================================
 
 Software Engineer at United States Postal Service
 -------------------------------------------------
+<div align="justify">
 
-I am a mathematics graduate student with a decade of experience as an Educator. I am a professional software developer interested in Data Science and Cryptography.
+I am currently a graduate student in Data Analytics at Colorado State University Global. I hold an associate's and bachelor's degree in Mathematics from CUNY institutions complemented by a minor in Computer Science. After completing my master’s program, I plan to pursue a doctoral track in Cybersecurity. My passion for mathematics has grown over the years, and those familiar with my contributions on platforms like [Quora](https://www.quora.com/profile/%E0%A6%85%E0%A6%A8%E0%A6%A8-%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%BF%E0%A6%95-Awnon-Bhowmik) and [StackExchange](https://math.stackexchange.com/users/515900/awnon-bhowmik) can attest to my affinity for the subject. Since 2018, I have also developed a strong interest in cryptography, with a goal of integrating data analytics and information security.
+
+In addition to my academic journey, I have over a decade of experience as an educator, teaching mathematics at various CUNY colleges and working as a substitute teacher for the NYC Department of Education. Currently, I work as a backend developer, leveraging my expertise in mathematics, software development, and data analytics.
+
+</div>
+
+
+--------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Paterson, NJ
 * 🖥️  See my portfolio at [my personal site](https://awnonbhowmik.github.io/)
