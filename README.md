@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer at United States Postal Service
 -------------------------------------------------
 
-I am a mathematics graduate student with a decade of experience as an Educator. Currently a professional software developer with a keen interest in Data Science and Cryptography.
+I am a mathematics graduate student with a decade of experience as an Educator. I am a professional software developer interested in Data Science and Cryptography.
 
 * 🌍  I'm based in Paterson, NJ
 * 🖥️  See my portfolio at [my personal site](https://awnonbhowmik.github.io/)
