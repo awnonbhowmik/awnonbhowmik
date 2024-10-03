@@ -7,7 +7,7 @@ Software Engineer at United States Postal Service
 I am a mathematics graduate student with a decade of experience as an Educator. Currently a professional software developer with a keen interest in Data Science and Cryptography.
 
 * 🌍  I'm based in Paterson, NJ
-* 🖥️  See my portfolio at [my personal site](http://awnonbhowmik.com)
+* 🖥️  See my portfolio at [my personal site](https://awnonbhowmik.github.io/)
 * ✉️  You can contact me at [my email](mailto:awnonbhowmik256@gmail.com)
 * 🤝  I'm open to collaborating on Projects related to Mathematics, Cryptography, etc
 * ⚡  I occasionally write answers to mathematical problems on Quora and Mathematics StackExchange
