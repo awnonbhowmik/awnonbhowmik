@@ -5,7 +5,7 @@ Software Engineer at United States Postal Service
 -------------------------------------------------
 <div align="justify">
 
-I am currently a graduate student in Data Analytics at Colorado State University Global. I hold an associate's and bachelor's degree in Mathematics from CUNY institutions complemented by a minor in Computer Science. After completing my master’s program, I plan to pursue a doctoral track in Cybersecurity. My passion for mathematics has grown over the years, and those familiar with my contributions on platforms like [Quora](https://www.quora.com/profile/%E0%A6%85%E0%A6%A8%E0%A6%A8-%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%BF%E0%A6%95-Awnon-Bhowmik) and [StackExchange](https://math.stackexchange.com/users/515900/awnon-bhowmik) can attest to my affinity for the subject. Since 2018, I have also developed a strong interest in cryptography, with a goal of integrating data analytics and information security.
+I am currently a doctoral student in Cybersecurity and Information Assurance at Colorado Technical University. I earned my Master’s degree in Data Analytics from Colorado State University Global, graduating with a perfect 4.0 GPA. I also hold associate’s and bachelor’s degrees in Mathematics from CUNY institutions, complemented by a minor in Computer Science. Over the years, my passion for mathematics has grown significantly. Those familiar with my contributions on platforms like [Quora](https://www.quora.com/profile/%E0%A6%85%E0%A6%A8%E0%A6%A8-%E0%A6%AD%E0%A7%8C%E0%A6%AE%E0%A6%BF%E0%A6%95-Awnon-Bhowmik) and [StackExchange](https://math.stackexchange.com/users/515900/awnon-bhowmik) can attest to my deep engagement with the subject. Since 2018, I have also developed a strong interest in cryptography, with an ongoing research focus on integrating data analytics and information security within my doctoral work.
 
 In addition to my academic journey, I have over a decade of experience as an educator, teaching mathematics at various CUNY colleges and working as a substitute teacher for the NYC Department of Education. Currently, I work as a backend developer, leveraging my expertise in mathematics, software development, and data analytics.
 
@@ -17,7 +17,7 @@ In addition to my academic journey, I have over a decade of experience as an edu
 * 🌍  I'm based in Paterson, NJ
 * 🖥️  See my portfolio at [my personal site](https://awnon.netlify.app/)
 * ✉️  You can contact me at [my email](mailto:awnonbhowmik256@gmail.com)
-* 🤝  I'm open to collaborating on Projects related to Mathematics, Cryptography, etc
+* 🤝  I'm open to collaborating on Projects related to Mathematics, Data Analytics, Cryptography, etc
 * ⚡  I occasionally write answers to mathematical problems on Quora and Mathematics StackExchange
 
 ### Skills
