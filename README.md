@@ -23,12 +23,6 @@ In addition to my academic journey, I have over a decade of experience as an edu
 
 ---
 
-- 🌍  I'm based in Paterson, NJ
-- 🖥️  See my portfolio at [my personal site](https://awnon.netlify.app/)
-- ✉️  You can contact me at [my email](mailto:awnonbhowmik256@gmail.com)
-- 🤝  I'm open to collaborating on Projects related to Mathematics, Data Analytics, Cryptography, etc
-- ⚡  I occasionally write answers to mathematical problems on Quora and Mathematics StackExchange
-
 ### Skills
 
 #### Programming & Development
