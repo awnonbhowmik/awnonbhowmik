@@ -37,7 +37,7 @@ software and research.
 - Based in New Jersey
 - Portfolio: [awnon.netlify.app](https://awnon.netlify.app/)
 - Email:
-  [awnonbhowmik256@gmail.com](mailto:awnonbhowmik256@gmail.com)
+  [Email 1](mailto:awnonbhowmik256@gmail.com) | [Email 2](mailto:awnonbhowmik@outlook.com)
 - Doctoral student in Cybersecurity and Information
   Assurance
 - Open to collaboration on research-driven and technical
